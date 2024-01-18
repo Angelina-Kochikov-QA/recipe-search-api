@@ -42,7 +42,7 @@ const [wordSubmitted, setWordSubmitted] = useState("");
   return (<div>
     <div className="App">
     <div className="container">
-      <video autoPlay muted loop>
+      <video playsInline autoPlay muted loop>
         <source src={video} type="video/mp4" />
         </video>
         <h1>QuickMeal</h1>

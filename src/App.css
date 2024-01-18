@@ -19,7 +19,7 @@ video {
 
 
 .App {
-  background-color: rgb(253, 245, 234);
+  background-color: rgb(253, 249, 243);
   box-shadow: 0px 0px 30px 10px #bbbebc;
 
 }
@@ -38,7 +38,7 @@ h1 {
   border-radius: 30px;
   border: none;
   padding: 12px 30px;
-  box-shadow: 0px 0px 0px 2px #88bd92;
+  box-shadow: 0px 0px 0px 2px #76a17e;
   font-size: 20px;
   font-family: 'Nunito', sans-serif;
   outline:none;
